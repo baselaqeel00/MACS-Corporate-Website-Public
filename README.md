@@ -1,9 +1,9 @@
 # MACS — Corporate Engineering Presentation Platform
 
 [![Live Demo](https://img.shields.io/badge/Live_Site-macs--consult.com-0056b3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://macs-consult.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 A fully responsive, performant, and production-ready corporate portfolio website developed for **MACS**, an engineering project management firm specializing in oil & gas, refining, petrochemicals, and energy infrastructure across the MENA region.
 
@@ -55,6 +55,7 @@ Check out the live production deployment:
 ├── main.js             # Client-side Interactions & Utilities
 ├── robots.txt          # Crawler Directives & Indexing Rules
 └── sitemap.xml         # XML Sitemap for Search Engines
+```
 
 ---
 
