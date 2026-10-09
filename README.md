@@ -55,3 +55,10 @@ Check out the live production deployment:
 ├── main.js             # Client-side Interactions & Utilities
 ├── robots.txt          # Crawler Directives & Indexing Rules
 └── sitemap.xml         # XML Sitemap for Search Engines
+
+---
+
+## 📄 License & Attribution
+
+This website was engineered and built as a freelance deliverable for **MACS**. All rights to corporate logos, project photos, and proprietary business context belong to MACS. Code structure is shared for portfolio and technical evaluation purposes.
+
